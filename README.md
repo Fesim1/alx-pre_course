@@ -1,3 +1,1 @@
-Understand how to create a hotel reservation app!
-using the simplest language 
-#include <check in>
+printf("Hello world i love C\n");
